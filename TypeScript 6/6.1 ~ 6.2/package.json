@@ -1,0 +1,12 @@
+{
+  "name": "typescript-senior",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./src/simple_decorator.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

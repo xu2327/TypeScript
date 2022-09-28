@@ -1,0 +1,13 @@
+{
+  "name": "typescript-jinjie",
+  "version": "1.0.0",
+  "description": "\"removeComments\": true, 这个配置的意思是 在准成 js 文件的时候去掉注释，但只能在 tsc 后面不带任何代码的情况下才可以",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
